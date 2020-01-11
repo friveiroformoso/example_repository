@@ -1,6 +1,0 @@
-0) New file
-
-1) I am addind line 1
-asdfghjk
-
-2) Now, I just want to keep line 2
