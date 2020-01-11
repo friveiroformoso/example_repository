@@ -5,4 +5,8 @@ asdfghjhgfdsdfghjk
 
 2) KEEP JUST THE SECOND LINE
 
+<<<<<<< HEAD
 4) Olá a toda a gente!
+=======
+3) I am forgetting about the first line and writing new stuff
+>>>>>>> parent of 4531173... Revert "Update NOVO ARQUIVO.txt"
