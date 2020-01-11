@@ -1,6 +1,5 @@
 0) NEW FILE
 
-1) I introduce the first line
-asdfghjhgfdsdfghjk
-
 2) KEEP JUST THE SECOND LINE
+
+3) I am forgetting about the first line and writing new stuff
