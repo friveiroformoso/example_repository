@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 0) NEW FILE
 
 1) I introduce the first line
 asdfghjhgfdsdfghjk
 
 2) KEEP JUST THE SECOND LINE
-=======
-0) NEW FILE
->>>>>>> parent of e60cdce... Update NOVO ARQUIVO.txt
