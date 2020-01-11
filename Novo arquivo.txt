@@ -1,1 +1,4 @@
 0) NEW FILE
+
+1) We have here the first line
+asdfghjhgfdsadfgh
